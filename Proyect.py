@@ -164,7 +164,7 @@ with st.sidebar:
 
     st.markdown("---")
     st.markdown("**Team members:**")
-    st.markdown("- Member 1\n- Member 2\n- Member 3\n- Member 4")
+    st.markdown("- Carlos Andres Barreto Castilla")
 
 # ─────────────────────────────────────────────
 # TABS
